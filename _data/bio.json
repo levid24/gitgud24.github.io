@@ -2,7 +2,7 @@
   "basics": {
     "name": "David Liao",
     "label": "Undergraduate Student",
-    "picture": "https://github.com/tingweidliao/tingweidliao.github.io/blob/master/images/IMG_0441.jpeg",
+    "picture": "https://tingweidliao.github.io/template/images/mollly.png",
     "email": "tliao240@hawaii.edu",
     "phone": "909-539-5802",
     "website": "https://tingweidliao.github.io",
@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "tingweiliao",
+        "url": "http://linkedin.com/in/tingwei-liao"
       },
       {
         "network": "twitter",
@@ -39,20 +39,23 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "sports",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Los Angeles Lakers",
+        "NBA"
       ]
     },
     {
       "name": "video games",
       "keywords": [
+        "Fromsoftware"
+        "PS4"
       ]
     },
     {
       "name": "cats",
       "keywords": [
+        "Roxy"
       ]
     }
   ],
@@ -84,9 +87,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Business (expected Spring, 2022)",
+      "studyType": "B.A.A",
+      "startDate": "2018-09-30",
       "endDate": "Present",
       "gpa": "",
       "courses": [
