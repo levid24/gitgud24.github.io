@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "96701",
-      "city": "Honolulu",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -30,11 +30,6 @@
         "username": "deeliao24",
         "url": "http://twitter.com/changeme"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
