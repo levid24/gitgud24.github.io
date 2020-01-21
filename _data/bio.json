@@ -51,26 +51,17 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Mac OS",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Microsoft Excel",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        
       ]
     }
   ],
@@ -114,15 +105,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "",
+      "website": "",
+      "position": "Cat Caretaker",
+      "startDate": "2016-04-10",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Care for a colony of 7 feral cats who reside in the neighborhood",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
