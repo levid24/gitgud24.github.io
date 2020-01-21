@@ -3,7 +3,7 @@
     "name": "David Liao",
     "label": "Shidler Undergraduate",
     "picture": "https://tingweidliao.github.io/images/DavidLiao2.jpeg",
-    "email": "tliao240@hawaii.edu",
+    "email": "tliao240hawaii.edu",
     "phone": "909-539-5802",
     "website": "https://tingweidliao.github.io",
     "summary": "I am studying for a B.B.A in Management Information Systems at University of Hawaii at Mānoa. I expect to graduate in Spring, 2022.",
@@ -22,46 +22,58 @@
       },
       {
         "network": "linkedin",
-        "username": "tingweiliao",
-        "url": "http://linkedin.com/in/tingwei-liao"
+        "username": "tingwei liao",
+        "url": "https://linkedin.com/in/tingwei-liao/"
       },
       {
         "network": "twitter",
         "username": "deeliao24",
         "url": "http://twitter.com/changeme"
       },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
     ]
   },
   "interests": [
     {
-      "name": "basketball",
+      "name": "Basketball",
       "keywords": [
       ]
     },
     {
-      "name": "video games",
+      "name": "Video Games",
       "keywords": [
       ]
     },
     {
-      "name": "cats",
+      "name": "Data Information Systems",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Mac OS",
+      "name": "Microsoft",
       "level": "",
       "keywords": [
-        
+        "Excel",
+        "Word",
+        "Powerpoint",
+        ""
       ]
     },
     {
-      "name": "Microsoft Excel",
+      "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        
+        "MacOS",
+        "Git/Github",
+        "",
+        "",
+        ""
       ]
     }
   ],
@@ -79,27 +91,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "US Army",
+      "position": "Behavioral Health Specialist",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2013-10-28",
+      "endDate": "2015-07-30",
+      "summary": "Technician on psychiatric ward with 14 patient capacity",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Ensured patient safety and wellbeing",
+        "Engaged in leading group therapy, promoting milieu safety, and providing therapy"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "US Army",
+      "position": "Behavioral Health Specialist",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "2017-10-28",
+      "summary": "Technician at Family Advocacy Program",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Served as primary contact person and conduit between social workers, military police and child protective services in taking and giving reports on cases",
+        "Co-facilitaed therapy groups focusing on domestic violence, building healthy relationships, and parenting with social workers"
       ]
     }
   ],
@@ -107,26 +119,42 @@
     {
       "organization": "",
       "website": "",
-      "position": "Cat Caretaker",
-      "startDate": "2016-04-10",
+      "position": "Cat Rescuer",
+      "startDate": "2017-06-01",
       "endDate": "Present",
-      "summary": "Care for a colony of 7 feral cats who reside in the neighborhood",
+      "summary": "Takes care of stray cats with goal to capture and neuter/ spay to combat feral cat issue",
       "highlights": [
-        "",
+        "Cares for a colony of 8 fixed feral cats who reside in the neighborhood",
         ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": 
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
- 
-
-  
+    {
+      "title": "Employee of the Month",
+      "date": "February 2016",
+      "awarder": "Tripler Army Medical Center, Inpatient Psychiatry",
+      "summary": "Exceptional work, providing excellent patient care and leadership"
+    },
+    {
+      "title": "Soldier of the Month",
+      "date": "July 2017",
+      "awarder": "Tripler Army Medical Center, Bravo Company",
+      "summary": "Won the soldier of the month competition, a test of military knowledge, drill and ceremony, and military aptitude"
+    }
   ],
   "references": [
     {
