@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-      "name": "basketball",
+      "name": "Basketball",
       "keywords": [
       ]
     },
@@ -144,16 +144,16 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Employee of the Month",
+      "date": "February 2016",
+      "awarder": "Tripler Army Medical Center, Inpatient Psychiatry",
+      "summary": "Exceptional work, providing excellent patient care and leadership"
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Soldier of the Month",
+      "date": "July 2017",
+      "awarder": "Tripler Army Medical Center, Bravo Company",
+      "summary": "Won the soldier of the month competition, a test of military knowledge, drill and ceremony, and military aptitude"
     }
   ],
   "references": [
