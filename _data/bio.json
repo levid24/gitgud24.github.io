@@ -6,7 +6,7 @@
     "email": "tliao240hawaii.edu",
     "phone": "909-539-5802",
     "website": "https://tingweidliao.github.io",
-    "summary": "I am studying for a B.B.A in Management Information Systems at University of Hawaii at Mānoa. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.B.A in Management Information Systems at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96701",
@@ -61,8 +61,7 @@
       "keywords": [
         "Excel",
         "Word",
-        "Powerpoint",
-        ""
+        "Powerpoint"
       ]
     },
     {
@@ -70,16 +69,13 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/Github",
-        "",
-        "",
-        ""
+        "Git/Github"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
       "area": "Business (expected Spring, 2022)",
       "studyType": "B.A.A",
       "startDate": "2018-09-30",
@@ -111,7 +107,7 @@
       "summary": "Technician at Family Advocacy Program",
       "highlights": [
         "Served as primary contact person and conduit between social workers, military police and child protective services in taking and giving reports on cases",
-        "Co-facilitaed therapy groups focusing on domestic violence, building healthy relationships, and parenting with social workers"
+        "Co-facilitated group therapy focusing on domestic violence prevention, building healthy relationships, and responsible parenting with social workers"
       ]
     }
   ],
@@ -124,21 +120,7 @@
       "endDate": "Present",
       "summary": "Takes care of stray cats with goal to capture and neuter/ spay to combat feral cat issue",
       "highlights": [
-        "Cares for a colony of 8 fixed feral cats who reside in the neighborhood",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
+        "Cares for a colony of 8 fixed feral cats who reside in the neighborhood"
       ]
     }
   ],
