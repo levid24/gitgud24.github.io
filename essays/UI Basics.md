@@ -1,0 +1,7 @@
+I attempted Browser History 1 as instructed at first, just trying to get a feel of how WODS worked. I recorded myself going through with the exercises with Quicktime Player. As the time began to tick, I found myself restarting whenever I felt I wasn't doing tasks efficiently enough. If I was 10 minutes into the workout, and I still haven't gotten through the first couple of tasks, I restarted. This process took a while and was frustrating when I got stuck and didn't know what to do.
+
+I went on to look at the screencast to see how I was supposed to do the tasks and applied as much I could remember. With repetition, I was able to get my times down from 25+ minutes to 22, to 18, and finally to 17:19 (AV)
+
+Browser History 2 was easier to get into than the first one. It still took many tries of just practicing and searching around in the dark before getting comfortable, but the process was definitely paying off. I attempted it about 5 times before getting my first RX time, finishing the WOD in 7:44! This was very exciting for me, and I felt good about the process. 
+
+Browser History 3 actually gave me quite a bit of a headache with the task to divide all three sections into three columns. I couldn't figure out how to get the Chrome to render in the center. The brief history of Chrome kept showing up right below the brief history of Firefox. It wasn't until I changed the margins in the style.css file to width, that my formatting was fixed. I was so relieved! I went on to finish the exercise with another RX time at 7:36. 
