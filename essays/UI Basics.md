@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: UI Basics
+date: 2020-02-26
+labels:
+  - Tech_essay
+---
+
 I attempted Browser History 1 as instructed at first, just trying to get a feel of how WODS worked. I recorded myself going through with the exercises with Quicktime Player. As the time began to tick, I found myself restarting whenever I felt I wasn't doing tasks efficiently enough. If I was 10 minutes into the workout, and I still haven't gotten through the first couple of tasks, I restarted. This process took a while and was frustrating when I got stuck and didn't know what to do.
 
 I went on to look at the screencast to see how I was supposed to do the tasks and applied as much I could remember. With repetition, I was able to get my times down from 25+ minutes to 22, to 18, and finally to 17:19 (AV)
